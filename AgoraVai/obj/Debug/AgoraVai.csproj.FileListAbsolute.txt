@@ -1,0 +1,10 @@
+C:\Users\Moises\source\repos\APS-LPOO-WF\AgoraVai\bin\Debug\AgoraVai.exe.config
+C:\Users\Moises\source\repos\APS-LPOO-WF\AgoraVai\bin\Debug\AgoraVai.exe
+C:\Users\Moises\source\repos\APS-LPOO-WF\AgoraVai\bin\Debug\AgoraVai.pdb
+C:\Users\Moises\source\repos\APS-LPOO-WF\AgoraVai\obj\Debug\AgoraVai.csprojAssemblyReference.cache
+C:\Users\Moises\source\repos\APS-LPOO-WF\AgoraVai\obj\Debug\AgoraVai.Form1.resources
+C:\Users\Moises\source\repos\APS-LPOO-WF\AgoraVai\obj\Debug\AgoraVai.Properties.Resources.resources
+C:\Users\Moises\source\repos\APS-LPOO-WF\AgoraVai\obj\Debug\AgoraVai.csproj.GenerateResource.cache
+C:\Users\Moises\source\repos\APS-LPOO-WF\AgoraVai\obj\Debug\AgoraVai.csproj.CoreCompileInputs.cache
+C:\Users\Moises\source\repos\APS-LPOO-WF\AgoraVai\obj\Debug\AgoraVai.exe
+C:\Users\Moises\source\repos\APS-LPOO-WF\AgoraVai\obj\Debug\AgoraVai.pdb
